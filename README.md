@@ -1,5 +1,8 @@
 # Super Fatorial
 
+#### Equipe: André Freddi e Willian Choaste
+
+---
 
 Vamos visualizar e editar executar o código vamos utilizar o Colab:
 
